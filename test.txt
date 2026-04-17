@@ -1,0 +1,12 @@
+project name = Tasks;
+Database name = Tasks;
+Database username = user_Tasks;
+Database password = user_Tasks;
+------------------------------;
+bootstrap v5.3.8
+
+
+
+
+
+
